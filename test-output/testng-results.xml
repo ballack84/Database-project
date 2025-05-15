@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-15T13:17:18 GST" name="Default suite" finished-at="2025-05-15T13:17:25 GST" duration-ms="6462">
+    <groups>
+    </groups>
+    <test started-at="2025-05-15T13:17:18 GST" name="Default test" finished-at="2025-05-15T13:17:25 GST" duration-ms="6462">
+      <class name="mypackage.mytestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:mypackage.mytestcases@5cdd09b1]" started-at="2025-05-15T13:17:18 GST" name="setup" finished-at="2025-05-15T13:17:24 GST" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="updatecustomername()[pri:1, instance:mypackage.mytestcases@5cdd09b1]" started-at="2025-05-15T13:17:24 GST" name="updatecustomername" finished-at="2025-05-15T13:17:24 GST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatecustomername -->
+        <test-method signature="deletecustomer()[pri:2, instance:mypackage.mytestcases@5cdd09b1]" started-at="2025-05-15T13:17:24 GST" name="deletecustomer" finished-at="2025-05-15T13:17:24 GST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="readdata()[pri:3, instance:mypackage.mytestcases@5cdd09b1]" started-at="2025-05-15T13:17:24 GST" name="readdata" finished-at="2025-05-15T13:17:25 GST" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readdata -->
+      </class> <!-- mypackage.mytestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
